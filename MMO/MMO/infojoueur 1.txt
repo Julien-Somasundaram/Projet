@@ -1,0 +1,6 @@
+Deplacement Disponible :
+1 Droite
+2 Gauche
+3 Haut
+4 Bas
+Saisir une valeur entre 1 et 4 :

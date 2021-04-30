@@ -1,0 +1,22 @@
+Vos points d'action : 12
+Tour de joueur 1
+Choix Disponible :
+
+1 Voir les caracteristiques du personnage
+2 Attaque (3PA)
+3 Deplacement (2PA)
+4 Equipement (1PA)
+5 Potion (Variable)
+6 Finir et garder les PA restants
+Saisir une valeur entre 1 et 6 :
+Vos points d'action : 12
+Tour de Francois
+Choix Disponible :
+
+1 Voir les caracteristiques du personnage
+2 Attaque (3PA)
+3 Deplacement (2PA)
+4 Equipement (1PA)
+5 Potion (Variable)
+6 Finir et garder les PA restants
+Saisir une valeur entre 1 et 6 :
